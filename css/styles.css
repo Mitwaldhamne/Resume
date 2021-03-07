@@ -1,0 +1,133 @@
+body{
+  margin: 0;
+    text-align: center;
+    font-family: 'Economica', sans-serif;
+}
+h1{
+  font-size: 5.625rem;
+  margin-top:0;
+  font-family: 'Caveat', cursive;
+  color: #66BFBF;
+}
+.skill-row{
+  width: 50%;
+  margin: 0 auto 100px auto;
+  line-height: 2;
+}
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  color:#11999E;
+}
+a{
+  margin: 10px;
+  color: #11999E;
+  text-decoration: none;
+}
+.top{
+background-color: #E4EBF2;
+position: relative;
+padding-top: 100px;
+}
+.profile-img{
+  width: 20%;
+}
+.mentor-img{
+  width: 20%;
+  float:left;
+  margin-right: 30px;
+}
+.dev-img{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+.middlecloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.uppercloud{
+  position: absolute;
+  left: 300px;
+  top: 300px;
+}
+.bottom-container{
+  background-color: #E4EBF2;
+  padding: 5%;
+  margin-top: 30px;
+  line-height: 2;
+}
+.btn{
+     background: #3D94F6;
+     background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+     background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+     background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+     background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+     background-image: linear-gradient(to bottom, #3D94F6, #1E62D0);
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     color: #FFFFFF;
+     font-family: Open Sans;
+     font-size: 40px;
+     font-weight: 100;
+     padding: 40px;
+     box-shadow: 1px 1px 20px 0px #000000;
+     -webkit-box-shadow: 1px 1px 20px 0px #000000;
+     -moz-box-shadow: 1px 1px 20px 0px #000000;
+     text-shadow: 1px 1px 20px #000000;
+     border: solid #337FED 1px;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+  }
+
+  .btn:hover {
+     border: solid #337FED 1px;
+     background: #EAF6F6;
+     background-image: -webkit-linear-gradient(top, #EAF6F6, #3D94F6);
+     background-image: -moz-linear-gradient(top, #EAF6F6, #3D94F6);
+     background-image: -ms-linear-gradient(top, #EAF6F6, #3D94F6);
+     background-image: -o-linear-gradient(top, #EAF6F6, #3D94F6);
+     background-image: linear-gradient(to bottom, #EAF6F6, #3D94F6);
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     text-decoration: none;
+}
+hr{
+  border-color: grey;
+   border-style: none;
+   border-top-style: dotted;
+ border-width:5px;
+   width: 5%;
+}
+p{
+  font-weight: 800;
+  font-size: 1.5em;
+}
+.content{
+  line-height: 2;
+  width: 20%;
+}
+.copyright{
+  font-size: 12px;
+font-weight: 100;
+margin: 0;
+}
+ .Top-div{
+  background-color: #E4EBF2;
+  position: fixed;
+}
+.profile-img-top{
+width: 80px;
+margin-left: 50px;
+}
+.Header{
+  background-color: #E4EBF2;
+}
